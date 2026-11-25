@@ -1,4 +1,4 @@
-# MFG Purchase Quick Count — UI/UX prototype (demo)
+# Purchase Analytic — UI/UX prototype (demo)
 
 A **sanitized** build of the purchase-analytics UI/UX prototype, published so it
 can be reviewed in a browser.
